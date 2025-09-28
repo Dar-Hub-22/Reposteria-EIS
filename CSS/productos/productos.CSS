@@ -1,0 +1,12 @@
+
+.prod-items{
+    display: flex;
+}
+
+.esp-der{
+    margin-right: 10px;
+}
+
+.width-prod{
+    max-width: 420px;
+}
